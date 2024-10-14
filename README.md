@@ -1,6 +1,6 @@
-# flutter_application_1
+# AI Integrated Chatbot Application 
 
-A new Flutter project.
+
 
 ## Getting Started
 
